@@ -2,7 +2,7 @@
 authors = ["The Hinged Staff"]
 date = 2021-12-22T05:00:00Z
 excerpt = "Earlier this year, President Biden executed his brilliantly well thought out plan for the United States to leave Afghanistan. His plan was simple. Take American soldiers out of the country and leave the poorly trained Afghanistan military to fend off the Taliban."
-hero = "static/images/andre-klimke-ihglixx7z8-unsplash.jpg"
+hero = "static/images/medium.jpg"
 title = "After Biden’s Brilliant Plan to Leave Afghanistan, Country Faces Economic Collapse"
 
 +++
