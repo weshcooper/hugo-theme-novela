@@ -31,4 +31,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/2021-12-22-my-first-post/test.md
 - content/post/after-biden-s-brilliant-plan-to-leave-afghanistan-country-faces-economic-collapse.md
