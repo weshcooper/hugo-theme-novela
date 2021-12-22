@@ -2,3 +2,22 @@ baseURL: "https://example.com"
 languageCode: "en-us"
 title: "Hugo Novela"
 pygmentsstyle: 'monokai'
+# Novela settings
+paginate: 6
+social:
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+taxonomies:
+  author: authors
+  
+
+
+
+
+
+
+
