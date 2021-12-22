@@ -1,0 +1,16 @@
++++
+authors = ["The Hinged Staff"]
+date = 2021-12-22T05:00:00Z
+draft = true
+excerpt = "Even if Russia does invade Ukraine, the main question everyone should be asking is if the United States is being serious now. Is the US being serious in the sense that they will actually do something about Ukraine being invaded? "
+hero = "/uploads/13-38-51-tass_103144791-2-2.jpg"
+title = "United States is Obsessed with Russia being at Ukraine’s Border"
+
++++
+The United States has been worrying that Ukraine will be a victim of even more [Russian aggression after Russia increased the presence of troops at Ukraine’s border](https://www.cnn.com/2021/12/07/politics/nuland-sfrc-us-russia-ukraine/index.html). In case you don’t remember, Vladimir Putin, the megalomaniac president from the world’s ice box (Russia), as Biden and other democrats would astutely describe him, had sent [Russian troops into Ukraine in 2014](https://www.cfr.org/global-conflict-tracker/conflict/conflict-ukraine). More recently, [Russia has been amassing troops along Ukraine’s border](https://www.cbsnews.com/news/russia-ukraine-news-what-you-need-to-know/), perhaps in preparation for an invasion of Ukraine.
+
+Even if Russia does invade Ukraine, the main question everyone should be asking is if the United States is being serious now. Is the US being serious in the sense that they will actually do something about Ukraine being invaded? This is important to ask because under both current US President Biden and former President Trump the United States seemed to have made a shift in foreign policy thinking. For instance, Trump made the decision to put [“America first”](https://www.brookings.edu/blog/order-from-chaos/2019/01/04/america-first-is-only-making-the-world-worse-heres-a-better-approach/) in foreign affairs, whatever that means. Perhaps it means not properly negotiating with other countries along with not sending American troops into new wars.
+
+Current President Biden made a more direct change in American foreign policy by [leaving Afghanistan](https://www.nytimes.com/2021/08/31/us/politics/biden-defends-afghanistan-withdrawal.html). Seemingly saying that the United States is not going to involve itself in wars that do not directly relate to US security. How far does Biden’s shift in foreign policy go? And what would the Biden administration say is directly related to US security?
+
+After Russia placed troops in Ukraine, the United States placed [economic sanctions on Russia](https://sgp.fas.org/crs/row/IF10779.pdf). These [economic sanctions caused damage](https://www.atlanticcouncil.org/in-depth-research-reports/report/the-impact-of-western-sanctions-on-russia/) to the Russian economy but didn’t seem to change Putin’s resolve in regards to harassing Ukraine. So it will be interesting to see if Russia does invade Ukraine what the United States will do. So far it looks like the United States is basically planning on placing economic sanctions on Russia, like that’s going to actually work.
