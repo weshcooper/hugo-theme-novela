@@ -1,6 +1,6 @@
 +++
 authors = ["The Hinged Staff"]
-date = 2021-12-15T05:00:00Z
+date = 2021-12-15T13:00:00Z
 excerpt = "Even if Russia does invade Ukraine, the main question everyone should be asking is if the United States is being serious now. Is the US being serious in the sense that they will actually do something about Ukraine being invaded? "
 hero = "/uploads/13-38-51-tass_103144791-2-2.jpg"
 title = "United States is Obsessed with Russia being at Ukraine’s Border"
